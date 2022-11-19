@@ -12,5 +12,6 @@ sqlparse
 toml
 typed-ast
 wrapt==1.12.1
+validate-docbr
 
 #super user  --- apicliente ---- 1234
